@@ -1,0 +1,90 @@
+[
+  {
+    "nom": "Jake el Perro",
+    "atac": 90,
+    "defensa": 80,
+    "velocitat": 10,
+    "salut": 100,
+    "descripcio": "Un perro sabio y transformable que siempre está listo para la aventura."
+  },
+  {
+    "nom": "Finn el Humano",
+    "atac": 85,
+    "defensa": 75,
+    "velocitat": 8,
+    "salut": 100,
+    "descripcio": "El héroe valiente con una espada afilada y su leal compañero Jake el Perro."
+  },
+  {
+    "nom": "Marceline",
+    "atac": 85,
+    "defensa": 75,
+    "velocitat": 9,
+    "salut": 100,
+    "descripcio": "una valiente guerrera humana-vampiro con una hacha afilada y habilidades excepcionales."
+  },
+  {
+    "nom": "Rey Hielo",
+    "atac": 80,
+    "defensa": 70,
+    "velocitat": 6,
+    "salut": 120,
+    "descripcio": "El excéntrico villano que lanza hechizos helados y tiene un corazón complicado."
+  },
+  {
+    "nom": "Bob Arcoíris",
+    "atac": 70,
+    "defensa": 60,
+    "velocitat": 7,
+    "salut": 90,
+    "descripcio": "Un arcoíris viviente lleno de positividad y color, siempre listo para ayudar."
+  },
+  {
+    "nom": "BMO",
+    "atac": 75,
+    "defensa": 65,
+    "velocitat": 9,
+    "salut": 110,
+    "descripcio": "Una consola de videojuegos con conciencia propia, amante de la diversión y la aventura."
+  },
+  {
+    "nom": "Princesa Chicle",
+    "atac": 88,
+    "defensa": 78,
+    "velocitat": 8,
+    "salut": 95,
+    "descripcio": "La dulce pero fuerte princesa del Reino del Chicle, con habilidades científicas sorprendentes."
+  },
+  {
+    "nom": "Lady Arcoíris",
+    "atac": 75,
+    "defensa": 70,
+    "velocitat": 8,
+    "salut": 105,
+    "descripcio": "Una entidad mágica formada por los colores del arcoíris, capaz de crear y controlar ilusiones."
+  },
+  {
+    "nom": "Beemo (versión guerrera)",
+    "atac": 85,
+    "defensa": 75,
+    "velocitat": 10,
+    "salut": 95,
+    "descripcio": "BMO en su versión de combate, equipado con herramientas y habilidades avanzadas para enfrentar desafíos."
+  },
+  {
+    "nom": "Princesa Llama",
+    "atac": 80,
+    "defensa": 85,
+    "velocitat": 7,
+    "salut": 100,
+    "descripcio": "Una llama real con habilidades pirotécnicas, capaz de controlar el fuego y defender su reino con valentía."
+  },
+  {
+    "nom": "Gunter (modo superinteligente)",
+    "atac": 95,
+    "defensa": 60,
+    "velocitat": 12,
+    "salut": 80,
+    "descripcio": "Gunter, el pingüino, potenciado con inteligencia y habilidades mejoradas después de un experimento científico de la Princesa Chicle. ¡Ahora es una amenaza intelectual!"
+  }
+]

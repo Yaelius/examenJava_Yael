@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juego de Cartas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div id="jugador1" class="jugador" onclick="seleccionarCarta(event)"></div>
+  <div id="jugador2" class="jugador" onclick="seleccionarCarta(event)"></div>
+  <button id="iniciar-combate" onclick="iniciarCombate()">Iniciar Combate</button>
+
+  <template id="carta-template">
+    <div class="card" onclick="seleccionarCarta(this)">
+      <img src="" alt="Personaje">
+      <h3></h3>
+      <p>Ataque: <span class="ataque"></span></p>
+      <p>Defensa: <span class="defensa"></span></p>
+      <p>Velocidad: <span class="velocidad"></span></p>
+      <p>Salud: <span class="salud"></span></p>
+    </div>
+  </template>
+
+  <script src="main.js"></script>
+</body>
+</html>
