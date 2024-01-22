@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Juego de Cartas</title>
+</head>
+<body>
+  <div class="contenedor" id="jugador1">
+    <h2>Jugador 1</h2>
+    <div class="cartas" id="jugador1-cartas"></div>
+  </div>
+
+  <div class="contenedor" id="jugador2">
+    <h2>Jugador 2</h2>
+    <div class="cartas" id="jugador2-cartas"></div>
+  </div>
+
+  <button id="iniciar-combate">Iniciar Combate</button>
+
+  <div id="resultado" class="resultado"></div>
+
+  <template id="carta-template">
+    <div class="card" onclick="seleccionarCarta(this)">
+      <h3 class="nombre"></h3>
+      <img class="imagen" alt="Carta">
+      <div class="atributos">
+        <p><strong>Ataque:</strong> <span class="ataque"></span></p>
+        <p><strong>Defensa:</strong> <span class="defensa"></span></p>
+        <p><strong>Velocidad:</strong> <span class="velocidad"></span></p>
+        <p><strong>Salud:</strong> <span class="salud"></span></p>
+      </div>
+    </div>
+  </template>
+
+  <script src="main.js"></script>
+</body>
+</html>

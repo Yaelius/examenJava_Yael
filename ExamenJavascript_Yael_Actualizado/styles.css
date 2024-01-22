@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.contenedor {
+  margin-bottom: 20px;
+}
+
+.cartas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.3s;
+  width: 130px; /* Reduje el ancho de la tarjeta a 130px */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  border-color: #007BFF;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.seleccionada {
+  border-color: #28a745;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.resultado {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}

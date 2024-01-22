@@ -1,0 +1,12 @@
+[
+  {"nom": "Goku", "atac": 90, "defensa": 80, "velocitat": 10, "salut": 100, "descripcio": "Saiyan legendario con increíbles habilidades de combate.", "imagen": "goku.jpg"},
+  {"nom": "Vegeta", "atac": 85, "defensa": 75, "velocitat": 9, "salut": 100, "descripcio": "Príncipe Saiyan, rival de Goku y maestro en técnicas de combate.", "imagen": "vegeta.jpg"},
+  {"nom": "Yamsha", "atac": 70, "defensa": 65, "velocitat": 8, "salut": 100, "descripcio": "Luchador valiente, aunque no siempre tiene la mejor suerte.", "imagen": "yamsha.jpg"},
+  {"nom": "Krilin", "atac": 75, "defensa": 85, "velocitat": 7, "salut": 100, "descripcio": "Leal amigo y hábil guerrero con técnicas especiales.", "imagen": "krilin.jpg"},
+  {"nom": "Freezer", "atac": 95, "defensa": 90, "velocitat": 6, "salut": 100, "descripcio": "Emperador del espacio con poderes destructivos y transformaciones.", "imagen": "freezer.jpg"},
+  {"nom": "Cell", "atac": 88, "defensa": 92, "velocitat": 5, "salut": 100, "descripcio": "Ser bio-mecánico con la capacidad de absorber a otros guerreros.", "imagen": "cell.jpg"},
+  {"nom": "Bulma", "atac": 50, "defensa": 60, "velocitat": 4, "salut": 100, "descripcio": "Genio científico y estratega, aunque no es una luchadora convencional.", "imagen": "bulma.jpg"},
+  {"nom": "Piccolo", "atac": 82, "defensa": 88, "velocitat": 3, "salut": 100, "descripcio": "Namekiano sabio y poderoso, con habilidades únicas en combate.", "imagen": "piccolo.jpg"},
+  {"nom": "Majin Buu", "atac": 92, "defensa": 95, "velocitat": 2, "salut": 100, "descripcio": "Criatura mágica con la capacidad de absorber y transformarse.", "imagen": "buu.jpg"},
+  {"nom": "Trunks", "atac": 87, "defensa": 78, "velocitat": 1, "salut": 100, "descripcio": "Guerrero del futuro con una espada poderosa y técnicas avanzadas.", "imagen": "trunks.jpg"}
+]
